@@ -6,3 +6,5 @@ movie = pd.read_csv("IMDB-Movie-Data.csv")
 movie.head()
 movie.tail(2)
 map(lambda *a: a, range(3))
+
+pandas 
